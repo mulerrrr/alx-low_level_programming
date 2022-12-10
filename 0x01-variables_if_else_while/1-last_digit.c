@@ -7,7 +7,7 @@
  * Return: Always 0
  */
 
-int maini(void)
+int main(void)
 {
 	int n;
 	int a;
