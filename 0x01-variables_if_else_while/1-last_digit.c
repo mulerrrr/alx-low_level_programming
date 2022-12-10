@@ -4,7 +4,7 @@
 
 /**
  * main - display
- * Return: Always 0
+ * Return: Always 0 (succesful)
  */
 
 int main(void)
