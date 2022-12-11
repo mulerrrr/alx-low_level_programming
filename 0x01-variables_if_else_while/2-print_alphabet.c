@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * main -print lower case
- * return - always 0
+ * main - entry
+ * Return: Always 0
  */
 int main(void)
 {
 	char ch;
-	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
