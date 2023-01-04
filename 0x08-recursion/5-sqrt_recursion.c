@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 /**
  * _evaluate - evaluate function sqrt
  * @i: integer
