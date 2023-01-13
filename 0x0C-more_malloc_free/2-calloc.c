@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 /**
  * _calloc - allocate memoris for nmeb elemn de size bytes
  * @nmemb: number of element in the array
